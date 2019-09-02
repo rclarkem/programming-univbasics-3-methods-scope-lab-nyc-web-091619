@@ -14,6 +14,6 @@ end
 
 def any_phrase(phrase)
 if phrase === "Do A Barrel Roll!"
-  return phrase
+  puts phrase
 end
 end
